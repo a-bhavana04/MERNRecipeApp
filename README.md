@@ -94,3 +94,22 @@ The application uses **TheMealDB** API to fetch recipe data:
 3. **Save Recipes**: Save preferred recipes for later access.
 4. **Sorting**: Organize results in ascending or descending alphabetical order.
 5. **View Saved Recipes**: Access previously saved recipes and manage them.
+
+---
+###Initital Screen
+![Website](demo/1.jpg)
+
+###Search Functionality
+![Website](demo/4.jpg)
+![Website](demo/5.jpg)
+
+###Video Linking
+![Website](demo/8.jpg)
+![Website](demo/9.jpg)
+
+###Viewing Saved Recipes
+![Website](demo/12.jpg)
+![Website](demo/13.jpg)
+
+##Database
+![Website](demo/14.jpg)
