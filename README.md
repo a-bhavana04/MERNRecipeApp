@@ -108,8 +108,8 @@ The application uses **TheMealDB** API to fetch recipe data:
 ![Website](demo/9.jpg)
 
 ### Viewing Saved Recipes
-![Website](demo/12.jpg)
-![Website](demo/13.jpg)
+![Website](demo/10.jpg)
+![Website](demo/11.jpg)
 
 ## Database
-![Website](demo/14.jpg)
+![Website](demo/12.jpg)
