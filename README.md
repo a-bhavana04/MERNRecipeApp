@@ -96,20 +96,20 @@ The application uses **TheMealDB** API to fetch recipe data:
 5. **View Saved Recipes**: Access previously saved recipes and manage them.
 
 ---
-###Initital Screen
+### Initital Screen
 ![Website](demo/1.jpg)
 
-###Search Functionality
+### Search Functionality
 ![Website](demo/4.jpg)
 ![Website](demo/5.jpg)
 
-###Video Linking
+### Video Linking
 ![Website](demo/8.jpg)
 ![Website](demo/9.jpg)
 
-###Viewing Saved Recipes
+### Viewing Saved Recipes
 ![Website](demo/12.jpg)
 ![Website](demo/13.jpg)
 
-##Database
+## Database
 ![Website](demo/14.jpg)
